@@ -14,7 +14,7 @@ This script for Automator counts the number of patches installed and tracks the 
 ## Installation
 1. Open Automator and create a new `Application` workflow
 2. Add a `Run AppleScript` action to the workflow, then paste the code from [this script](op-1-field-counter.applescript?raw=true) into the action
-3. Save it in your `Applications` folder
+3. Save it in your `Applications` folder as `OP-1 field counter`
 4. Swap the generic Automator icon with [this one](op-1-field-counter.icns?raw=true)
 
 ## Usage
